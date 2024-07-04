@@ -1,0 +1,132 @@
+{
+    "main": {
+        "name": "Anom Priyanto",
+        "shortname": "Nom",
+        "occupation": "network security",
+        "description": "Eat, sleep, gaming, repeat.",
+        "yearofexperience": "",
+        "age": "21",
+        "designation": "network security",
+        "image": "/images/22.png",
+        "fullimage": "/images/11.jpeg",
+        "bio": "hi, my name is anom priyanto I recently studied network security during this lecture and I am interested in this field maybe I will study and study in depth in this field.",
+        "contactmessage": "Get in touch with me to to build any software for your business.!",
+        "email": "anompriyanto@students.amikom.ac.id",
+        "phone": "+88 01862420119",
+       "address": {
+            "street": "JL.Derpoyudo",
+            "city": "karanganyar",
+            "state": "indonesia",
+            "zip": "57715"
+        },
+        "quotes1": {
+                "description": "I love graphic design and photography and have been working on my portfolio since 2016. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+        },
+        "quotes2": {
+            "sectiontitle": "",
+            "title": "I can give your business a new creative start right away! Hire me for your Awesome project",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, corrupti odit? At iure facere, porro repellat officia quas, dolores magnam assumenda soluta odit harum voluptate inventore ipsa maiores fugiat accusamus eos nulla. Iure voluptatibus explicabo officia."
+        },
+        "workabout": {
+            "completedproject": "100",
+            "inprogressproject": "20",
+            "awardrecived": "15",
+            "happyclinet": "100"
+        },
+        "resumedownload": "https://drive.google.com/file/d/1HuLXxOB6dL58AcupKZ9qhRr7739EXLML/view",
+        "social": [{
+                "name": "youtube",
+                "url": "https://youtube.com/@skmspr3626?si=ENrcRLqiL7JWaSWa",
+                "className": "fa fa-youtube"
+            },
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/Anom Priyanto",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/anskmsprt/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/Anomskm07",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [{
+            "school": "universitas amikom yogyakarta.",
+            "degree": "Bachelor's Degree, Computer Science",
+            "major": "INFORMATIKA",
+            "description": "gooooood"
+        }],
+        "work": [{
+            "company": "Serba Sambal",
+            "title": "chef",
+            "years": "2021-2022",
+            "description": "develop several food menus."
+        }]
+    },
+    "portfolio": {
+        "projects": [{
+                "no":"01",
+                "title": "RMS with AR",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+            },
+            {
+                "no":"02",
+                "title": "Prothom alo clone",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+            },
+            {
+                "no":"03",
+                "title": "Chaldal Clone",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=PDvlbujWmIs&t=3s"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
+                "clientname": "John wilson",
+                "clientaddress": "Seattle, Washington"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
+                "clientname": "David haris",
+                "clientaddress": "London, England"
+            }
+        ]
+    },
+    "services": {
+        "services": [
+            {
+                "no": "01",
+                "title": "Directory Services",
+                "description": "A protocol for centrally accessing and managing a directory of information, such as a list of users on a network."
+            },
+            {
+                "no": "02",
+                "title": "Email Services",
+                "description": "Protocol for sending email from a client to an email server or between email servers."
+            },
+            {
+                "no": "03",
+                "title": "Domain Name Services",
+                "description": "A service that translates domain names to IP addresses, so users can access websites using easy-to-remember domain names."
+            }
+        ]
+    },
+    "awwards": {
+        "awwards": [
+           
+        ]
+    }
+}
