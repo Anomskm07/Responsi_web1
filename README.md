@@ -2,7 +2,7 @@
 
 You can simply run the project by following process
 ```shell
-$ git clone https://github.com/Baizidmdashadzzaman/protfolio-for-developer-using-nuxt-js.git
+$ git clone 
 ```
 ```shell
 $ cd protfolio-for-developer-using-nuxt-js
@@ -13,8 +13,7 @@ $ npm install
 ```shell
 $ npm run dev
 ```
-After that you can edit the data.json file located in static/api/data.json
-![Nuxt JS Portfolio for developer](4.PNG?raw=true "Nuxt JS Portfolio for developer")
+
 fill up you infomation and enjoy.
 ## Deploy Your Own
 
